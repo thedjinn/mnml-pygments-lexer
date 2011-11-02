@@ -1,12 +1,12 @@
 # Mnml syntax lexer for Pygments
 
-This package contains a Pygments Lexer for the [Mnml](http://github.com/thedjinn/mnml) language.o
+This package contains a Pygments Lexer for the [Mnml](http://github.com/thedjinn/mnml) language.
 
 ## Installation
 
 The lexer is available as a Pip package:
 
-    pip insatll mnml-pygments-parser
+    pip install mnml-pygments-parser
 
 Alternatively, to install from the git repository: (you may need to sudo depending on your Python environment)
 
